@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">কিছুই পারিনা – English</string>
+    <string name="app_full_title">কিছুই পারিনা – English Learning App</string>
+    <string name="welcome_subtitle">সহজ বাংলায় ধাপে ধাপে ইংরেজি শিখুন (অফলাইন)</string>
+    <string name="notification_channel_name">Daily Learning Reminder</string>
+    <string name="notification_channel_desc">দৈনিক ইংরেজি অনুশীলনের রিমাইন্ডার</string>
+    <string name="reminder_title">ইংরেজি শেখার সময় হয়েছে!</string>
+    <string name="reminder_body">আজ অন্তত ১টি লেসন ও কুইজ অনুশীলন করুন — কিছুই পারিনা অ্যাপে স্বাগতম।</string>
+</resources>

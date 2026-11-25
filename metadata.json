@@ -1,0 +1,6 @@
+{
+  "name": "কিছুই পারিনা – English",
+  "description": "Offline Bengali-to-English learning Android app with 18+ structured modules, colorful A-Z cards, vocabulary, verbs, sentence patterns, stories, interactive quizzes, progress tracking, and an offline PDF course reader.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
